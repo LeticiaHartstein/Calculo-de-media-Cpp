@@ -11,3 +11,5 @@ Um simples programa qu ecomputa a média de três notas de um aluno, qual deve s
   <li>Verifica se a média é maior que 7</li>
   <li>Encerra o programa</li>
 </ol>
+<h2>Output:</h2>
+<img src="https://github.com/LeticiaHartstein/Calculo-de-media-Cpp/blob/main/OutputExemplo.png?raw=true" alt="output esperado">

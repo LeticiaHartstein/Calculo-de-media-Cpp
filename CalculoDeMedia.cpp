@@ -23,13 +23,13 @@ int main ()
 
 	media = (Nota1 + Nota2+ Nota3)/3; // Cálculo da média
 
-	if (media < 7 )
+	if (media < 7 ) // verifica se a media foi menor que 7
 	{
-		std::cout << "o aluno: " << nome << " esta de recuperacao" ;		
+		std::cout << "o aluno: " << nome << " esta de recuperacao" ; // irá ser exibido se a média for menor que 7		
 	}
 	else 
 	{
-		std::cout << "o aluno: " << nome << " esta aprovado ";
+		std::cout << "o aluno: " << nome << " esta aprovado "; // irá ser exibido se a média for maior que 7
 	}
 	return 0;
 }

@@ -1,5 +1,5 @@
 # Cálculo de média C++
-Um simples programa qu ecomputa a média de três notas de um aluno, qual deve ser aprovado se a media for maior que 7
+Um simples programa que computa a média de três notas de um aluno, qual deve ser aprovado se a media for maior que 7
 
 <img src="https://raw.githubusercontent.com/LeticiaHartstein/Calculo-de-media-Cpp/refs/heads/main/Fluxograma-Calculo_de_media.svg" alt = "fluxograma - média de idade">
 
